@@ -1,7 +1,7 @@
 # HTML-CSS-Praticando
 <h1>Praticando com HTML e CSS</h1> 
 
-> Status do Projeto: :warning: (Em andamento)
+> Status do Projeto: ✔️: (Concluído)
 
 ### Tópicos 
 
